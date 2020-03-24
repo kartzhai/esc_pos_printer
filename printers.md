@@ -15,3 +15,4 @@ Thank you for your contribution!
 |[Epson TM-m30 - Ethernet](https://epson.com/For-Work/Printers/POS/TM-m30-POS-3%22-Receipt-Printer/p/C31CE95012)|3"|3.1.1| No Issues found! |
 |[Issyzonepos 80mm Wifi Thermal Receipt](https://www.aliexpress.com/item/32985398184.html)|80mm|3.1.4|No issues graphics & barcode tested also tested)|
 |[HOIN HOP-H58 Bluetooth Thermal Cash Receipt Printer](https://www.aliexpress.com/item/32859843705.html)|58mm|3.1.4|No issues|
+|[EPSON TMU 220B](https://www.epson.eu/products/sd/pos-printer/epson-tm-u220b-series)|80mm|3.1.5|No issues on current version|
